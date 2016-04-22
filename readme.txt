@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 This is new line.
 new
 hehe
-Git tracks changes.
+Git tracks changes of files.
